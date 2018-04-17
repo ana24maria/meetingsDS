@@ -14,6 +14,9 @@ The format for listing an event is:
 
  * [StanCon](http://mc-stan.org/events/stancon2018/): California, USA.
  
+### September
+ * [The Use of R in Official Statistics] (https://www.aanmelder.nl/uros2018): Hague, Netherlands. @uRos2018
+ 
 ## 2017 {-}
 
 ### Januuary
